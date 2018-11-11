@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/ancientdrama.org/app-2117f811e6fcfa129e90.js","141bf1ed14948c8cb0b34e7cef469bc9"],["/ancientdrama.org/app-e6140bef68403cb1382b.js","f76df0594153a958dec85aed86f9b62c"],["/ancientdrama.org/commons-82aebd3177d62d8d101c.js","0a3449f20eb672f032f7533cb8c015a0"],["/ancientdrama.org/commons-a41e8c9e8e37f369d167.js","5a8252c6bd0d6b0dd5372f04cdaf0bfc"],["/ancientdrama.org/index.html","b074e9fbbfa65d809c07efca898118d2"],["/ancientdrama.org/manifest.webmanifest","af099f21479f8c772bdf0b87da459ed5"],["/ancientdrama.org/offline-plugin-app-shell-fallback/index.html","65a2ae10c9694375f1fec508d22007a5"]];
+var precacheConfig = [["/app-2117f811e6fcfa129e90.js","141bf1ed14948c8cb0b34e7cef469bc9"],["/app-e6140bef68403cb1382b.js","de2658aa2943f0881c682ae16c5ac6ce"],["/commons-82aebd3177d62d8d101c.js","91d0185c24c065e06985347cafcd8b1a"],["/commons-a41e8c9e8e37f369d167.js","5a8252c6bd0d6b0dd5372f04cdaf0bfc"],["/index.html","4510e5fd6340c8d7490a41c8f7bfbf03"],["/manifest.webmanifest","af099f21479f8c772bdf0b87da459ed5"],["/offline-plugin-app-shell-fallback/index.html","7e806ae49678108b1263204996c3621c"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
