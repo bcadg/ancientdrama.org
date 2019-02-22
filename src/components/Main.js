@@ -155,7 +155,7 @@ class Main extends React.Component {
                   Lighting Designer: 22 Lighting Studio
                 </h3>
                 <p>
-                  Marién is from Puerto Rico and has a background in stage lighting in Argentina, New York City and Puerto Rico. Marién is currently finishing a Masters in Fine Arts in Lighting Design at Parsons School of Design. She has participated in events produced by the Hemispheric Institute of Performance and Politics (NYU) in Brazil and Canada. She has collaborated with groups like Madres de la Plaza de Mayo, Sylvia Bofill, Sleep No More, The Public Theater, Kairiana Núñez, Viveca Vázquez, Karen Languevin, Mima, and other artists and collectives. She has published for the magazine of the Colegio de Arquitectos de Puerto Rico.
+                  Marién of 22 Lighting Studio is from Puerto Rico and has a background in stage lighting in Argentina, New York City and Puerto Rico. Marién is currently finishing a Masters in Fine Arts in Lighting Design at Parsons School of Design. She has participated in events produced by the Hemispheric Institute of Performance and Politics (NYU) in Brazil and Canada. She has collaborated with groups like Madres de la Plaza de Mayo, Sylvia Bofill, Sleep No More, The Public Theater, Kairiana Núñez, Viveca Vázquez, Karen Languevin, Mima, and other artists and collectives. She has published for the magazine of the Colegio de Arquitectos de Puerto Rico.
                 </p>
 
                 <h3>
