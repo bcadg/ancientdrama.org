@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "BCADG",
+    title: "BCAD",
     author: "Hunter Chang",
     description: "A Gatsby.js V2 Starter based on Dimension by HTML5 UP"
   },
