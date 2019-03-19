@@ -180,7 +180,7 @@ class Main extends React.Component {
               <article id="contact" className={`${this.props.article === 'contact' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
                 <h2 className="major">Contact</h2>
                 <span className="image main"><img src={contact} alt="" /></span>
-                <ul className="icons">
+                <ul className="icons" style={{ textAlign: 'center' }}>
                   <li><a href="https://twitter.com/AncientDrama" className="icon fa-twitter"><span className="label">Twitter</span></a></li>
                   <li><a href="https://facebook.com/BarnardColumbiaAncientDrama" className="icon fa-facebook"><span className="label">Facebook</span></a></li>
                   <li><a href="https://instagram.com/bcancientdrama" className="icon fa-instagram"><span className="label">Instagram</span></a></li>
