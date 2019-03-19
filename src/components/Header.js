@@ -20,6 +20,7 @@ const Header = (props) => (
           <li><a href="javascript:;" onClick={() => {props.onOpenArticle('work')}}>Current</a></li>
           <li><a href="javascript:;" onClick={() => {props.onOpenArticle('about')}}>Recent</a></li>
           <li><a href="javascript:;" onClick={() => {props.onOpenArticle('contact')}}>Contact</a></li>
+          <li><a href="https://www.eventbrite.com/o/barnard-columbia-ancient-drama-9867917254">Tickets</a></li>
         </ul>
       </nav>
     </header>

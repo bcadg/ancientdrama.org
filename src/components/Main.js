@@ -50,8 +50,10 @@ class Main extends React.Component {
 
               <article id="work" className={`${this.props.article === 'work' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
                 <h2 className="major">Current</h2>
-                <span className="image main"><img src={current} alt="" /></span>
-
+                <figure className="image main">
+                  <img src={current} alt="" />
+                  <figcaption style={{ textAlign: 'center' }}>Original oil painting of the Flavian Hercules statue (MET) by <a href="https://edmondrochat.com/">Edmond Rochat</a></figcaption>
+                </figure>
                 <h3>Euripides' <em>Herakles</em></h3>
                 <p><em>Performed in ancient Greek with English projections.</em></p>
 
@@ -186,7 +188,6 @@ class Main extends React.Component {
                 </ul>
                 {close}
               </article>
-
             </div>
         )
     }
