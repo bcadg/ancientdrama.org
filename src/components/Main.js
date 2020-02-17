@@ -115,7 +115,16 @@ class Main extends React.Component {
               Cristina Perez
             </a>
           </h3>
-          <p></p>
+
+          <h3>
+            Music:{' '}
+            <a
+              href="https://open.spotify.com/artist/23UdLCuyTrLGay2CGjF0PC"
+              style={{ textDecoration: 'underline' }}
+            >
+              Alejandro Kauderer
+            </a>
+          </h3>
 
           {close}
         </article>
